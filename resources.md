@@ -12,6 +12,8 @@ title: Hackday Resources
 <h3>General</h3>
 <p>Treehouse is an online coding learning website which has a beautiful user interface and a massive library of video tutorials, challenges and quizzes. One really lovely thing about Treehouse is that it creates tracks for you so that you can take several courses leading towards an end goal.  Treehouse is free for the first month, after which the monthly subscription price is either $25 or $49 per month. It is definitely worth subscribing if you are planning on committing approx 3 or more hours a week learning how to code. You can cancel your subscription at any time.</p>
 <p>Codecademy is the most popular online resource for beginners who want to learn how to code. It's completely free and incredibly easy to get your head around. We'd definitely suggest it as your first port of call. Treehouse and Codecademy have tutorials for all the programming languages below. We have also added an independent resource for each langauge.</p>
+<p>Cyber Dojo is an environment to hone your skills in many languages, either by yourself or as a group activity. It's completely free and has exercises for a variety of skill levels.</p>
+<a href="https://cyber-dojo.org/" ><button class="btn btn-success">Cyber Dojo</button></a>
 <a href="http://www.codecademy.com/"><img height="200" width="300" alt="Codecademy link" src="/images/logo--dark-blue-bf11002ce1caecdfb9fec8d3286b8a8d.svg"></a>
 <a href="http://teamtreehouse.com/"><img height="200" width="300" alt="Treehouse link" src="/images/Treehouse's_logo_(Jan_2015).png"></a>
 <hr />
