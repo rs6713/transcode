@@ -6,7 +6,6 @@ title: Hackday Resources
 <hr />
 
 <p class="pull-left">This might be your first hackday. Or you're just curious about programming and aren't quite sure where to start. Click on the button on the right to link to an infographic by Carl Cheo. It's laid out as a question and answer flowchart aimed at helping you figure out which language will suit you most. There are also some great Lord of the Rings references for the fans out there.</p>
-<img height="200" width="300" class="pull-right" alt="Which programming language should I learn first?" src="/images/whichpr.png">
 <hr />
 
 <h3>General</h3>
