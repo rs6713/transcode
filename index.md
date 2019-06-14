@@ -7,7 +7,7 @@ title: Trans*Code Home
 <h2>Latest Event - Trans*Code at <a href="https://pylondinium.org/" target="_blank">PyLondinum!</a> </h2>
 <p>Announcing the return to London of Trans*Code &#8211; the UK’s only hack event series focused solely on drawing attention to transgender issues and opportunities.</p>
 <h3>What: Trans*Code</h3>
-<p>Open to trans and non-binary folk, allies, coders, designers and visionaries of all sorts, Trans*Code isis inspired by the groundbreaking <a href="http://www.transhack.org/">Trans*H4CK</a> events created by Dr. Kortney Ziegler. The event that aims to help draw attention to transgender issues through a topic-focused hackday. Supported by introductory programming workshops, community members not currently working in technology are also encouraged to participate.</p>
+<p>Open to trans and non-binary folk, allies, coders, designers and visionaries of all sorts, Trans*Code isis inspired by the groundbreaking <a href="https://twitter.com/transh4ck">Trans*H4CK</a> events created by Dr. Kortney Ziegler. The event that aims to help draw attention to transgender issues through a topic-focused hackday. Supported by introductory programming workshops, community members not currently working in technology are also encouraged to participate.</p>
 <h3>When:</h3>
 <p>Friday 14th June, 2019<br>
 09:00 – 18:00</p>
@@ -30,5 +30,5 @@ London, EC4N 4TQ
 <p>Naomi Ceder &#8211; info@trans-code.org</p>
 <p><b>Social:</b></p>
   <p>Twitter: <a href="https://twitter.com/trans_code">@trans_code</a>, #trans_code<br /></p>
- <h4>Trans*Code events are <a href="code_of_conduct.html">governed by the Tran*Code Code of Conduct</a></h4>
+ <h4>Trans*Code events are <a href="/code_of_conduct">governed by the Tran*Code Code of Conduct</a></h4>
 
