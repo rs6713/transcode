@@ -1,3 +1,32 @@
+- name: Name Change Tracker
+  info: A tool to assist you through the legal process of changing your name.
+  url: https://youthful-muse.glitch.me
+  date: 14-06-2019
+  location: London, UK
+
+- name: Trans Map
+  url: https://trans-map.glitch.me
+  info: A community-sourced map of trans-inclusive locations.
+  date: 14-06-2019
+  location: London, UK
+
+- name: Trans*Code Site Update
+  info: An overdue update to this website.
+  date: 14-06-2019
+  location: London, UK
+
+- name: Trans-friendly GP finder
+  url: https://trans-gp-finder.glitch.me/
+  info: A webapp to help find trans-friendly GPs in the UK.
+  date: 8-06-2018
+  location: London, UK
+
+- name: Trans Day of Rememberance Memorial Site
+  url:  https://tdor.translivesmatter.info
+  info: A memorial site to commemorate transgender individuals lost to violence.
+  date: 8-06-2018
+  location: London, UK
+
 - name: School Board Alerts
   url: https://github.com/alison985/school-board-agenda-alerts
   info: An app to scrape school board agendas to alert the community of trans related (i.e. trans hostile) items on school board agendas.
@@ -12,19 +41,19 @@
 
 - name: Non-binary name generator
   url: https://github.com/jeff-fichtner/baby-names-1000
-  info: Generates non-binary names - inspired by the Trnas*Code Zürich project.
+  info: Generates non-binary names - inspired by the Trans*Code Zürich project.
   date: 12-10-2016
   location: Chicago, IL USA
 
 - name: AllyBot
   url: https://github.com/dgales4130/allybot
-  info: A slack bot which can give trans-related support and advice
+  info: A slack bot which can give trans-related support and advice.
   date: 12-10-2016
   location: Chicago, IL USA
 
 - name: Trans-code Game
   url: https://github.com/Velfi/trans-code-game
-  info: A browser-based game that illustrates character creation without binary gendered assumptiosn
+  info: A browser-based game that illustrates character creation without binary gendered assumptions.
   date: 12-10-2016
   location: Chicago, IL USA
 
