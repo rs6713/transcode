@@ -10,6 +10,23 @@
   date: 14-06-2019
   location: London, UK
 
+- name: Trans*Code Site Update
+  info: An overdue update to this website.
+  date: 14-06-2019
+  location: London, UK
+
+- name: Trans-friendly GP finder
+  url: https://trans-gp-finder.glitch.me/
+  info: A webapp to help find trans-friendly GPs in the UK.
+  date: 8-06-2018
+  location: London, UK
+
+- name: Trans Day of Rememberance Memorial Site
+  url:  https://tdor.translivesmatter.info
+  info: A memorial site to commemorate transgender individuals lost to violence.
+  date: 8-06-2018
+  location: London, UK
+
 - name: School Board Alerts
   url: https://github.com/alison985/school-board-agenda-alerts
   info: An app to scrape school board agendas to alert the community of trans related (i.e. trans hostile) items on school board agendas.
